@@ -1,2 +1,3 @@
 line1 file 2 added
 line2 file2 added
+feature1 update2
