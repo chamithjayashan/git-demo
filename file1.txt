@@ -1,2 +1,3 @@
 function1 develop
 function1 tested
+func2 bug fixed
